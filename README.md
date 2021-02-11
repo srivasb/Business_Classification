@@ -10,7 +10,7 @@ Import all the data from *business.jason* file and get:
 
 Function to use: 
 
-''' python
-	model = linear_model.LogisticRegression()
-	model.fit(X,y) 
-'''
+```
+    model = linear_model.LogisticRegression()
+    model.fit(X,y)
+```
