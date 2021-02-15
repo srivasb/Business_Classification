@@ -14,3 +14,8 @@ Function to use:
     model = linear_model.LogisticRegression()
     model.fit(X,y)
 ```
+
+## Bankrupt Classification example
+
+From data file 5year.arff implement the classification function *Logistic Regression*
+
